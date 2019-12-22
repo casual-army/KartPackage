@@ -1,0 +1,550 @@
+Compiled for SDL version: 2.0.9
+Linked with SDL version: 2.0.9
+Setting up SRB2Kart...
+
+
+Sonic Robo Blast 2 Kart
+Copyright (C) 1998-2018 by Kart Krew & STJr
+
+This program comes with ABSOLUTELY NO WARRANTY.
+
+This is free software, and you are welcome to redistribute it
+and/or modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2 of
+the License, or (at your option) any later version.
+See the 'LICENSE.txt' file for details.
+
+Sonic the Hedgehog and related characters are trademarks of SEGA.
+We do not claim ownership of SEGA's intellectual property used
+in this program.
+
+Looking for WADs in: SRB2WADDIR,.
+Z_Init(): Init zone memory allocation daemon. 
+System memory: 4025MB - Free: 3687MB
+I_StartupTimer()...
+W_InitMultipleFiles(): Adding IWAD and main PWADs.
+Added file E:\SRB2Kart\srb2.srb (6214 lumps)
+Loading main config from E:\SRB2Kart\srb2.srb
+Added file E:\SRB2Kart\gfx.kart (1804 lumps)
+Added file E:\SRB2Kart\textures.kart (4070 lumps)
+Added file E:\SRB2Kart\chars.kart (526 lumps)
+Added file E:\SRB2Kart\maps.kart (1684 lumps)
+Loading SOC from E:\SRB2Kart\maps.kart|SOC_MAIN
+Added file E:\SRB2Kart\patch.kart (861 lumps)
+Loading main config from E:\SRB2Kart\patch.kart
+Added file E:\SRB2Kart\sounds.kart (668 lumps)
+Added file E:\SRB2Kart\music.kart (118 lumps)
+Added file bonuschars.kart (3432 lumps)
+Added file E:\SRB2Kart\mods\tracks\KRBL_OMEGATRACKS_V2.3.pk3 (82 lumps)
+Loading Lua script from E:\SRB2Kart\mods\tracks\KRBL_OMEGATRACKS_V2.3.pk3|Lua/stinkybattleplusstuff.lua
+Pardon me while I initialize the Lua scripting interface...
+NOTICE: Game must be restarted to play record attack.
+Loading SOC from E:\SRB2Kart\mods\tracks\KRBL_OMEGATRACKS_V2.3.pk3|SOC/MAINCFG
+Added file E:\SRB2Kart\mods\tracks\KRB_fhrts_b7.pk3 (231 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KRB_fhrts_b7.pk3|soc/MAPHEADERS.txt
+Added file E:\SRB2Kart\mods\tracks\krb_ip_v1.4.pk3 (247 lumps)
+Loading Lua script from E:\SRB2Kart\mods\tracks\krb_ip_v1.4.pk3|Lua/LUA_FREESLOT
+MobjType MT_GGTRER allocated.
+State S_GGTRER allocated.
+Sprite SPR_GGTR allocated.
+MobjType MT_GGTREL allocated.
+State S_GGTREL allocated.
+Loading SOC from E:\SRB2Kart\mods\tracks\krb_ip_v1.4.pk3|SOC/SOC_MAIN
+Loading SOC from E:\SRB2Kart\mods\tracks\krb_ip_v1.4.pk3|SOC/SOC_HSPR
+Loading SOC from E:\SRB2Kart\mods\tracks\krb_ip_v1.4.pk3|SOC/SOC_GG
+Added file E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3 (542 lumps)
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|Lua/LUA_BUMP
+MobjType MT_BUMPER allocated.
+State S_BUMPER allocated.
+State S_BUMPERHIT allocated.
+Sprite SPR_BUNP allocated.
+MobjType MT_10POINTS allocated.
+State S_10POINTS allocated.
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|Lua/LUA_KNPS
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/RCK8.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/RCK9.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/KCKG.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/RCKL.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/RCK1.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/RCK3.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/RCKJ.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/RCKO.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_DG_Race_V1.7.2.pk3|SOC/MAIN.SOC
+Added file E:\SRB2Kart\mods\tracks\krl_latpack_v2.2a.pk3 (555 lumps)
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_latpack_v2.2a.pk3|Lua/LUA_DDSK
+MobjType MT_DVDEMERALD allocated.
+MobjType MT_DVDPARTICLE allocated.
+MobjType MT_DVDTRUMPET allocated.
+Sprite SPR_SPRC allocated.
+Sprite SPR_DVDD allocated.
+State S_DVDTRUMPET allocated.
+Sprite SPR_DSHA allocated.
+State S_DVDSHINE1 allocated.
+State S_DVDSHINE2 allocated.
+State S_DVDSHINE3 allocated.
+State S_DVDSHINE4 allocated.
+State S_DVDSHINE5 allocated.
+State S_DVDSPARK1 allocated.
+State S_DVDSPARK2 allocated.
+State S_DVDSPARK3 allocated.
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_latpack_v2.2a.pk3|Lua/LUA_RNG
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_latpack_v2.2a.pk3|Lua/LUA_SCRL
+Sprite SPR_SGZF allocated.
+MobjType MT_SGZ_BUSH allocated.
+State S_SGZ1 allocated.
+MobjType MT_SGZ_SMALLFLOWER allocated.
+State S_SGZ2 allocated.
+MobjType MT_SGZ_TALLFLOWER allocated.
+State S_SGZ3 allocated.
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_latpack_v2.2a.pk3|Lua/LUA_YURI
+MobjType MT_GGZFREEZETHRUSTER allocated.
+MobjType MT_GGZICEDUST allocated.
+Sprite SPR_GGZ1 allocated.
+Sprite SPR_GGZ2 allocated.
+Sprite SPR_GGZ3 allocated.
+Sprite SPR_GGZ6 allocated.
+Sprite SPR_GGZ7 allocated.
+Sprite SPR_GGZ8 allocated.
+State S_GGZFREEZETHRUSTER allocated.
+MobjType MT_FPZ_SKYBOX allocated.
+Sprite SPR_FSNU allocated.
+Sprite SPR_FBTN allocated.
+State S_GGZICEDUST1 allocated.
+State S_GGZICEDUST2 allocated.
+State S_GGZICEDUST3 allocated.
+State S_GGZICEDUST4 allocated.
+State S_GGZICEDUST5 allocated.
+State S_GGZICEDUST6 allocated.
+State S_GGZICEDUST7 allocated.
+State S_GGZICEDUST8 allocated.
+State S_GGZICEDUST9 allocated.
+State S_GGZICEDUST10 allocated.
+State S_GGZICEDUST11 allocated.
+State S_GGZPARTICLE11 allocated.
+State S_GGZPARTICLE12 allocated.
+State S_GGZPARTICLE13 allocated.
+State S_GGZPARTICLE14 allocated.
+State S_GGZPARTICLE15 allocated.
+State S_GGZPARTICLE16 allocated.
+State S_GGZPARTICLE17 allocated.
+State S_GGZPARTICLE18 allocated.
+State S_GGZPARTICLE21 allocated.
+State S_GGZPARTICLE22 allocated.
+State S_GGZPARTICLE23 allocated.
+State S_GGZPARTICLE24 allocated.
+Sound sfx_glgz1 allocated.
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_latpack_v2.2a.pk3|Lua/LUA_INPT
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_latpack_v2.2a.pk3|Lua/LUA_MONO
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_latpack_v2.2a.pk3|SOC/SOC_YURI
+Added file E:\SRB2Kart\mods\tracks\KRL_Masters_v2.1.pk3 (512 lumps)
+Loading Lua script from E:\SRB2Kart\mods\tracks\KRL_Masters_v2.1.pk3|Lua/LUA_WING
+MobjType MT_URZ_WINDSPAWNER allocated.
+State S_URZ_WIND1 allocated.
+State S_URZ_WIND2 allocated.
+State S_URZ_WIND3 allocated.
+State S_URZ_WIND4 allocated.
+State S_URZ_WIND5 allocated.
+Loading SOC from E:\SRB2Kart\mods\tracks\KRL_Masters_v2.1.pk3|soc/SOC_MAIN
+Loading SOC from E:\SRB2Kart\mods\tracks\KRL_Masters_v2.1.pk3|soc/OBJCTCFG
+Added file E:\SRB2Kart\mods\tracks\krl_MysticCave_v1.1.pk3 (58 lumps)
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_MysticCave_v1.1.pk3|Lua/LUA_LVI0
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_MysticCave_v1.1.pk3|soc/SOC_MAIN
+Added file E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3 (570 lumps)
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|Lua/Robotnik Winter/
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|Lua/Robotnik Winter/LUA_FPOL
+Sprite SPR_FPL1 allocated.
+State S_FIREPOLE1 allocated.
+MobjType MT_FIREPOLE1 allocated.
+Sprite SPR_FPL2 allocated.
+State S_FIREPOLE2 allocated.
+MobjType MT_FIREPOLE2 allocated.
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|Lua/Coconut Mall/
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|Lua/Coconut Mall/LUA_COCO
+MobjType MT_COCOTREE allocated.
+MobjType MT_COCOFLOWER allocated.
+State S_COCOTREE allocated.
+State S_COCOFLOWER allocated.
+Sprite SPR_CMPA allocated.
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|Lua/Final Fall/
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|Lua/Final Fall/LUA_FFAL
+State S_FFZBUSH allocated.
+MobjType MT_FFZBUSH allocated.
+Sprite SPR_FFZ1 allocated.
+State S_FFZFLOWER allocated.
+MobjType MT_FFZFLOWER allocated.
+Sprite SPR_FFZ2 allocated.
+State S_FFZTREE allocated.
+MobjType MT_FFZTREE allocated.
+Sprite SPR_FFZ3 allocated.
+Sprite SPR_FFZS allocated.
+Loading Lua script from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|Lua/Final Fall/LUA_SKYB
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|SOC/SOC_MAIN
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|SOC/SOC_TREN
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|SOC/SOC_STRE
+Loading SOC from E:\SRB2Kart\mods\tracks\krl_NPv3.6.pk3|SOC/SOC_TEMP
+Added file E:\SRB2Kart\mods\tracks\KR_AbstractionPack_V2.5.pk3 (229 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_AbstractionPack_V2.5.pk3|SOC/MAINCFG
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_AbstractionPack_V2.5.pk3|SOC/OBJCTCFG
+Added file E:\SRB2Kart\mods\tracks\KR_AdvAgencyPack_v1.4.pk3 (216 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_AdvAgencyPack_v1.4.pk3|SOC/MAIN.SOC
+Added file E:\SRB2Kart\mods\tracks\Kr_AngelArrow1.1_CHROMED.pk3 (105 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\Kr_AngelArrow1.1_CHROMED.pk3|SOC/MAINCFG
+Added file E:\SRB2Kart\mods\tracks\KR_Barkpark-v3.4.pk3 (399 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_Barkpark-v3.4.pk3|SOC/MAINCFG.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_Barkpark-v3.4.pk3|SOC/OBJCTCFG.SOC
+Added file E:\SRB2Kart\mods\tracks\KR_Bowling_Cup_V1.6.3.pk3 (84 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_Bowling_Cup_V1.6.3.pk3|SOC/MAINCFG.SOC
+Added file E:\SRB2Kart\mods\tracks\KR_Coastal_Temple_r2.pk3 (21 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_Coastal_Temple_r2.pk3|SOC/SOC_MAIN
+Added file E:\SRB2Kart\mods\tracks\kr_CTAP_v3-01.pk3 (454 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\kr_CTAP_v3-01.pk3|soc/SOC_MAIN.txt
+Added file E:\SRB2Kart\mods\tracks\KR_Desert_Rift_V1.pk3 (20 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_Desert_Rift_V1.pk3|SOC/SOC_MAIN
+Added file E:\SRB2Kart\mods\tracks\KR_DimBrk_v2.8F.pk3 (330 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_DimBrk_v2.8F.pk3|SOC/MAINCFG.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_DimBrk_v2.8F.pk3|SOC/OBJCTCFG
+Added file E:\SRB2Kart\mods\tracks\KR_Excitebike_Arena_V1-1.pk3 (171 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_Excitebike_Arena_V1-1.pk3|SOC/MAIN.SOC
+Added file E:\SRB2Kart\mods\tracks\KR_JokerCupPack-v1.1.pk3 (651 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_JokerCupPack-v1.1.pk3|soc/SOC_MAIN
+Added file E:\SRB2Kart\mods\tracks\kr_kartmania_v1.5.1.pk3 (425 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\kr_kartmania_v1.5.1.pk3|SOC/SOC_MAIN
+Loading SOC from E:\SRB2Kart\mods\tracks\kr_kartmania_v1.5.1.pk3|SOC/SOC_DRY
+Added file E:\SRB2Kart\mods\tracks\KR_LabyrinthZone-V4.pk3 (22 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_LabyrinthZone-V4.pk3|SOC/MAINCFG.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_LabyrinthZone-V4.pk3|SOC/OBJCTCFG.SOC
+Added file E:\SRB2Kart\mods\tracks\kr_mupak_v9.pk3 (224 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\kr_mupak_v9.pk3|soc/SOC_MAIN
+Added file E:\SRB2Kart\mods\tracks\KR_PlomPack_v1_2.pk3 (226 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_PlomPack_v1_2.pk3|SOC/SOC_MAIN
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_PlomPack_v1_2.pk3|SOC/SOC_LTRA
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_PlomPack_v1_2.pk3|SOC/SOC_FNOB
+Added file E:\SRB2Kart\mods\tracks\KR_RA_Extended-v2.3.pk3 (489 lumps)
+Loading Lua script from E:\SRB2Kart\mods\tracks\KR_RA_Extended-v2.3.pk3|Lua/SCBC.LUA
+State S_MKSCBCPART allocated.
+MobjType MT_MKSCBCPART allocated.
+Sprite SPR_SCBC allocated.
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_RA_Extended-v2.3.pk3|SOC/MAINCFG.SOC
+Added file E:\SRB2Kart\mods\tracks\KR_SparkCup_V1_3.pk3 (298 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_SparkCup_V1_3.pk3|SOC/MAINCFG.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_SparkCup_V1_3.pk3|SOC/TREN.SOC
+Added file E:\SRB2Kart\mods\tracks\KR_Sunset_Canyon_r1.pk3 (22 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_Sunset_Canyon_r1.pk3|SOC/SOC_MAIN
+Added file E:\SRB2Kart\mods\tracks\kr_TrbFlsh_v2.1.pk3 (186 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\kr_TrbFlsh_v2.1.pk3|SOC/SOC_MAIN
+Loading SOC from E:\SRB2Kart\mods\tracks\kr_TrbFlsh_v2.1.pk3|SOC/SOC_TREN
+Added file E:\SRB2Kart\mods\tracks\KR_VirusPack-v1.pk3 (20 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_VirusPack-v1.pk3|SOC/MAINCFG.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_VirusPack-v1.pk3|SOC/MAINCFG.SOC
+Added file E:\SRB2Kart\mods\music\DGEncore.zip (1 lumps)
+Added file E:\SRB2Kart\mods\music\ip_fl.pk3 (8 lumps)
+Added file E:\SRB2Kart\mods\loadlast\kl_hitfeed_v1.1.pk3 (46 lumps)
+Loading Lua script from E:\SRB2Kart\mods\loadlast\kl_hitfeed_v1.1.pk3|Lua/LUA_CMDS
+Loading Lua script from E:\SRB2Kart\mods\loadlast\kl_hitfeed_v1.1.pk3|Lua/LUA_DEFS
+Loading Lua script from E:\SRB2Kart\mods\loadlast\kl_hitfeed_v1.1.pk3|Lua/LUA_HITM
+Added file E:\SRB2Kart\mods\loadlast\MinusPorts.soc (1 lumps)
+Loading SOC from E:\SRB2Kart\mods\loadlast\MinusPorts.soc
+MAPKO
+MAPKM
+MAPKN
+MAPF0
+MAPF1
+MAPF2
+MAPF3
+MAPF4
+MAPFG
+MAPFH
+MAPFL
+MAPFM
+MAPS0
+MAPS1
+MAPS2
+MAPS3
+MAPHI
+MAPBT
+MAPO7
+MAPOG
+MAPO2
+MAPOH
+MAPO4
+MAPOA
+MAPON
+MAPOO
+MAPO1
+MAPO5
+MAPOK
+MAPO9
+MAPOB
+MAPOS
+MAPOP
+MAPO8
+MAPOI
+MAPOC
+MAPO3
+MAP75
+MAP30
+MAP76
+MAP91
+MAP77
+MAP78
+MAP79
+MAP80
+MAP81
+MAPK0
+MAPK1
+MAPK2
+MAPK3
+MAPK4
+MAPK5
+MAPK6
+MAPK7
+MAPK8
+MAPK9
+MAPKA
+MAPKY
+MAPKZ
+MAPI0
+MAPN0
+MAPN1
+MAPN2
+MAPN3
+MAPN4
+MAPN5
+MAPN6
+MAPN7
+MAPN8
+MAPN9
+MAPNA
+MAPNB
+MAPGU
+MAPGB
+MAPGC
+MAPGD
+MAPGF
+MAPGG
+MAPGH
+MAPGI
+MAPGJ
+MAPGE
+MAPGA
+MAPGK
+MAP70
+MAP71
+MAP72
+MAP73
+MAPX0
+MAP66
+MAP65
+MAP62
+MAP64
+MAP63
+MAPSB
+MAPSC
+MAPSD
+MAPSE
+MAPSF
+MAPSG
+MAP67
+MAPCM
+MAPFN
+MAPCN
+MAPCO
+MAPSU
+MAPSV
+MAPSX
+MAPSZ
+MAPTE
+MAPGW
+MAPGY
+MAPGT
+MAPGQ
+MAP61
+MAP68
+MAP69
+MAPCG
+MAP86
+MAPMR
+MAPS7
+MAPWL
+MAPPS
+MAPX5
+MAPX6
+MAPEX
+MAPJC
+MAPSR
+MAPSW
+MAPI1
+MAPI2
+MAPI3
+MAPI4
+MAPI5
+MAPI6
+MAPI7
+MAPI8
+MAPI9
+MAPIA
+MAPJG
+MAPJH
+MAPJI
+MAPJJ
+MAPJK
+MAPJL
+MAPIB
+MAPIC
+MAPG0
+MAPM0
+MAPM1
+MAPM2
+MAPM3
+MAPM4
+MAPM5
+MAPM7
+MAPM6
+MAPM8
+MAPM9
+MAPMZ
+MAPL2
+MAPL3
+MAPL8
+MAPP6
+MAPP8
+MAPPF
+MAPPC
+MAPPI
+MAPPH
+MAP92
+MAP93
+MAP94
+MAPTF
+MAPV0
+MAPV1
+MAPV2
+MAPV3
+MAPV4
+MAPV6
+MAPV7
+MAPA0
+MAPA1
+I_StartupGraphics()...
+NOTE: Under SDL2, all modes are supported on all platforms.
+Under opengl, fullscreen only supports native desktop resolution.
+Under software, the mode is stretched up to desktop resolution.
+ 0: 1920x1200
+ 1: 1920x1080
+ 2: 1680x1050
+ 3: 1600x1200
+ 4: 1600x900
+ 5: 1366x768
+ 6: 1440x900
+ 7: 1280x1024
+ 8: 1280x960
+ 9: 1280x800
+10: 1280x720
+11: 1152x864
+12: 1024x768
+13: 800x600
+14: 640x480
+15: 640x400
+16: 320x240
+17: 320x200
+Current Video Mode
+ 320x200 at 16 bit color
+ Stored in system memory
+CPU Info: 486: 0, 586: 1, MMX: 1, 3DNow: 0, MMXExt: 0, SSE2: 1
+HU_Init(): Setting up heads up display.
+Number of console HUD lines is now 5
+I_InitJoystick()...
+executing kartconfig.cfg
+Default resolution: 1280 x 800 (16 bits)
+M_Init(): Init miscellaneous info.
+R_Init(): Init SRB2 refresh daemon.
+R_LoadTextures()...
+P_InitPicAnims()...
+R_InitSprites()...
+srb2.srb added 2975 frames in 233 sprites
+gfx.kart added 1030 frames in 148 sprites
+chars.kart added 87 frames in 1 sprites
+patch.kart added 5 frames in 2 sprites
+bonuschars.kart added 3337 frames in 0 sprites
+KRBL_OMEGATRACKS_V2.3.pk3 added 0 frames in 0 sprites
+KRB_fhrts_b7.pk3 added 0 frames in 0 sprites
+krb_ip_v1.4.pk3 added 78 frames in 4 sprites
+krl_DG_Race_V1.7.2.pk3 added 34 frames in 8 sprites
+krl_latpack_v2.2a.pk3 added 55 frames in 11 sprites
+KRL_Masters_v2.1.pk3 added 23 frames in 13 sprites
+krl_MysticCave_v1.1.pk3 added 0 frames in 0 sprites
+krl_NPv3.6.pk3 added 41 frames in 23 sprites
+KR_AbstractionPack_V2.5.pk3 added 2 frames in 1 sprites
+KR_AdvAgencyPack_v1.4.pk3 added 39 frames in 12 sprites
+Kr_AngelArrow1.1_CHROMED.pk3 added 1 frames in 0 sprites
+KR_Barkpark-v3.4.pk3 added 33 frames in 22 sprites
+KR_Bowling_Cup_V1.6.3.pk3 added 0 frames in 0 sprites
+KR_Coastal_Temple_r2.pk3 added 0 frames in 0 sprites
+kr_CTAP_v3-01.pk3 added 11 frames in 1 sprites
+KR_Desert_Rift_V1.pk3 added 0 frames in 0 sprites
+KR_DimBrk_v2.8F.pk3 added 61 frames in 12 sprites
+KR_Excitebike_Arena_V1-1.pk3 added 3 frames in 1 sprites
+KR_JokerCupPack-v1.1.pk3 added 0 frames in 0 sprites
+kr_kartmania_v1.5.1.pk3 added 7 frames in 2 sprites
+KR_LabyrinthZone-V4.pk3 added 2 frames in 1 sprites
+kr_mupak_v9.pk3 added 3 frames in 0 sprites
+KR_PlomPack_v1_2.pk3 added 15 frames in 6 sprites
+KR_RA_Extended-v2.3.pk3 added 3 frames in 1 sprites
+KR_SparkCup_V1_3.pk3 added 9 frames in 5 sprites
+KR_Sunset_Canyon_r1.pk3 added 0 frames in 0 sprites
+kr_TrbFlsh_v2.1.pk3 added 5 frames in 1 sprites
+KR_VirusPack-v1.pk3 added 0 frames in 0 sprites
+ip_fl.pk3 added 0 frames in 0 sprites
+kl_hitfeed_v1.1.pk3 added 0 frames in 0 sprites
+Added skin 'tails'
+Added skin 'knuckles'
+Added skin 'eggman'
+Added skin 'metalsonic'
+Added skin 'flicky'
+Added skin 'motobug'
+Added skin 'amy'
+Added skin 'mighty'
+Added skin 'ray'
+Added skin 'espio'
+Added skin 'vector'
+Added skin 'chao'
+Added skin 'gamma'
+Added skin 'chaos'
+Added skin 'shadow'
+Added skin 'rouge'
+Added skin 'herochao'
+Added skin 'darkchao'
+Added skin 'cream'
+Added skin 'omega'
+Added skin 'blaze'
+Added skin 'silver'
+Added skin 'wonderboy'
+Added skin 'arle'
+Added skin 'nights'
+Added skin 'sakura'
+Added skin 'ulala'
+Added skin 'beat'
+Added skin 'vyse'
+Added skin 'aiai'
+Added skin 'kiryu'
+Added skin 'aigis'
+Added skin 'miku'
+Added skin 'doom'
+R_InitColormaps()...
+S_InitSfxChannels(): Setting up sound channels.
+ST_Init(): Init status bar.
+D_CheckNetGame(): Checking network game status.
+Entering main game loop...
+I_StartupKeyboard()...
+===========================================================================
+                   We hope you enjoy this game as
+                     much as we did making it!
+===========================================================================
+SRB2Kart v1.1 BIRBv2.1 (Oct 12 2019 21:00:40 2a4ade8a)
+SDL Windows 64-bit 
+Game speed has been changed to "Hard".
+I_ShutdownGraphics(): shut down
+Shutting down joy system
+I_Joystick: SDL's Joystick system has been shutdown
+I_ShutdownTcpDriver: shut down
+I_ShutdownSystem(): end of logstream.
