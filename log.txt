@@ -20,7 +20,7 @@ in this program.
 
 Looking for WADs in: SRB2WADDIR,.
 Z_Init(): Init zone memory allocation daemon. 
-System memory: 4025MB - Free: 2490MB
+System memory: 4025MB - Free: 2662MB
 I_StartupTimer()...
 W_InitMultipleFiles(): Adding IWAD and main PWADs.
 Added file E:\SRB2Kart\srb2.srb (6214 lumps)
@@ -35,16 +35,17 @@ Loading main config from E:\SRB2Kart\patch.kart
 Added file E:\SRB2Kart\sounds.kart (668 lumps)
 Added file E:\SRB2Kart\music.kart (118 lumps)
 Added file bonuschars.kart (3432 lumps)
-Added file E:\SRB2Kart\mods\chars\KC_Alastor.wad (102 lumps)
 Added file E:\SRB2Kart\mods\chars\KC_BowserJr.wad (102 lumps)
-Added file E:\SRB2Kart\mods\chars\KC_Hornet_V0.1.pk3 (162 lumps)
-Added file E:\SRB2Kart\mods\chars\KC_kingboo.wad (102 lumps)
 Added file E:\SRB2Kart\mods\chars\KC_Lucario.pk3 (102 lumps)
 Added file E:\SRB2Kart\mods\chars\KC_Peppino.wad (102 lumps)
 Added file E:\SRB2Kart\mods\chars\KC_Pit.pk3 (160 lumps)
 Added file E:\SRB2Kart\mods\chars\KC_Sparkster.wad (262 lumps)
 Added file E:\SRB2Kart\mods\chars\KC_T-54.pk3 (163 lumps)
 Added file E:\SRB2Kart\mods\chars\KC_Trueno_v2.1.pk3 (159 lumps)
+Added file E:\SRB2Kart\mods\tracks\KRBC_SharkAttackPackV3_2.pk3 (762 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KRBC_SharkAttackPackV3_2.pk3|SOC/MAIN.SOC
+Loading SOC from E:\SRB2Kart\mods\tracks\KRBC_SharkAttackPackV3_2.pk3|SOC/SOC_SONR
+Loading SOC from E:\SRB2Kart\mods\tracks\KRBC_SharkAttackPackV3_2.pk3|SOC/GBBC.SOC
 Added file E:\SRB2Kart\mods\tracks\KRBL_CCCP_v1.2.1.pk3 (316 lumps)
 Loading Lua script from E:\SRB2Kart\mods\tracks\KRBL_CCCP_v1.2.1.pk3|Lua/Dream Course/
 Pardon me while I initialize the Lua scripting interface...
@@ -216,16 +217,22 @@ Added file E:\SRB2Kart\mods\tracks\KR_Bowling_Cup_V1.6.3.pk3 (84 lumps)
 Loading SOC from E:\SRB2Kart\mods\tracks\KR_Bowling_Cup_V1.6.3.pk3|SOC/MAINCFG.SOC
 Added file E:\SRB2Kart\mods\tracks\kr_CTAP_v3-01.pk3 (454 lumps)
 Loading SOC from E:\SRB2Kart\mods\tracks\kr_CTAP_v3-01.pk3|soc/SOC_MAIN.txt
+Added file E:\SRB2Kart\mods\tracks\KR_DeepGlacial_v1.6.pk3 (10 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_DeepGlacial_v1.6.pk3|SOC/MAINCFG.SOC
 Added file E:\SRB2Kart\mods\tracks\KR_DesertCliffsDS_V1.0.pk3 (25 lumps)
 Loading SOC from E:\SRB2Kart\mods\tracks\KR_DesertCliffsDS_V1.0.pk3|SOC/SOC_MAIN
 Added file E:\SRB2Kart\mods\tracks\KR_DimBrk_v2.8F.pk3 (330 lumps)
 Loading SOC from E:\SRB2Kart\mods\tracks\KR_DimBrk_v2.8F.pk3|SOC/MAINCFG.SOC
 Loading SOC from E:\SRB2Kart\mods\tracks\KR_DimBrk_v2.8F.pk3|SOC/OBJCTCFG
+Added file E:\SRB2Kart\mods\tracks\KR_Geothemal_Fortress_V1.1.pk3 (21 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_Geothemal_Fortress_V1.1.pk3|SOC/MAINCFG
 Added file E:\SRB2Kart\mods\tracks\KR_JokerCupPack-v1.2.pk3 (655 lumps)
 Loading SOC from E:\SRB2Kart\mods\tracks\KR_JokerCupPack-v1.2.pk3|soc/SOC_MAIN
 Added file E:\SRB2Kart\mods\tracks\kr_kartmania_v1.5.1.pk3 (425 lumps)
 Loading SOC from E:\SRB2Kart\mods\tracks\kr_kartmania_v1.5.1.pk3|SOC/SOC_MAIN
 Loading SOC from E:\SRB2Kart\mods\tracks\kr_kartmania_v1.5.1.pk3|SOC/SOC_DRY
+Added file E:\SRB2Kart\mods\tracks\KR_KartZPack_v4.pk3 (539 lumps)
+Loading SOC from E:\SRB2Kart\mods\tracks\KR_KartZPack_v4.pk3|SOC/MAINCFG
 Added file E:\SRB2Kart\mods\tracks\kr_mupak_v9.pk3 (224 lumps)
 Loading SOC from E:\SRB2Kart\mods\tracks\kr_mupak_v9.pk3|soc/SOC_MAIN
 Added file E:\SRB2Kart\mods\tracks\KR_PlomPack_v1_2.pk3 (226 lumps)
@@ -252,100 +259,15 @@ Loading SOC from E:\SRB2Kart\mods\tracks\kr_undergroundgrotto_v1.2.1.pk3|SOC/SOC
 Added file E:\SRB2Kart\mods\tracks\KR_VirusPack-v1.pk3 (20 lumps)
 Loading SOC from E:\SRB2Kart\mods\tracks\KR_VirusPack-v1.pk3|SOC/MAINCFG.SOC
 Loading SOC from E:\SRB2Kart\mods\tracks\KR_VirusPack-v1.pk3|SOC/MAINCFG.SOC
-Added file E:\SRB2Kart\mods\loadlast\CASLserver.pk3 (8959 lumps)
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/kl_bct.lua
-WARNING: ...SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/kl_bct.lua:1: attempt to call global 'AH_addCustomTaunt' (a nil value)
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/coords.lua
-Added command "ringcoords"
-Added command "emeraldcoords"
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/kl_landingquake.lua
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/kl_randommap_v1.lua
-Added command "randommap"
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/kl_scaleplayers.lua
-Added command "scaleplayers"
-Added command "resetscaleplayers"
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/kl_slipstream.lua
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/localtimes.lua
-Added command "localrecords"
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/kl_rtv_v1.lua
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_CPLR
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_HUHK
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_ENGN.lua
-Sound sfx_cren00 allocated.
-Sound sfx_cren01 allocated.
-Sound sfx_cren02 allocated.
-Sound sfx_cren03 allocated.
-Sound sfx_cren04 allocated.
-Sound sfx_cren05 allocated.
-Sound sfx_cren06 allocated.
-Sound sfx_cren07 allocated.
-Sound sfx_cren08 allocated.
-Sound sfx_cren09 allocated.
-Sound sfx_cren10 allocated.
-Sound sfx_cren11 allocated.
-Sound sfx_cren12 allocated.
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_ENCA
-Sound sfx_caen00 allocated.
-Sound sfx_caen01 allocated.
-Sound sfx_caen02 allocated.
-Sound sfx_caen03 allocated.
-Sound sfx_caen04 allocated.
-Sound sfx_caen05 allocated.
-Sound sfx_caen06 allocated.
-Sound sfx_caen07 allocated.
-Sound sfx_caen08 allocated.
-Sound sfx_caen09 allocated.
-Sound sfx_caen10 allocated.
-Sound sfx_caen11 allocated.
-Sound sfx_caen12 allocated.
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_ENGN.lua
-Sound sfx_cren00 allocated.
-Sound sfx_cren01 allocated.
-Sound sfx_cren02 allocated.
-Sound sfx_cren03 allocated.
-Sound sfx_cren04 allocated.
-Sound sfx_cren05 allocated.
-Sound sfx_cren06 allocated.
-Sound sfx_cren07 allocated.
-Sound sfx_cren08 allocated.
-Sound sfx_cren09 allocated.
-Sound sfx_cren10 allocated.
-Sound sfx_cren11 allocated.
-Sound sfx_cren12 allocated.
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_CHAR.lua
-MobjType MT_TAILFLAME allocated.
-State S_TAILFLAME allocated.
-Sprite SPR_TF00 allocated.
-Sprite SPR_TF00 allocated.
-Sprite SPR_TF01 allocated.
-Sprite SPR_TF02 allocated.
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_SECN_v1.3.lua
-MobjType MT_KART_SECONDCOLOR allocated.
-Added command "secondcolor4"
-Added command "secondcolor3"
-Added command "secondcolor2"
-Added command "secondcolor"
-Sprite SPR_BKAZ allocated.
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_CMDS
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_DEFS
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_HITM
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/LUA_LVI0
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/mario/
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/mario/LUA_MOVR.txt
-Sprite SPR_MOVR allocated.
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/luigi/
-Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|Lua/luigi/LUA_LOVR.txt
-Sprite SPR_LOVR allocated.
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/MapAdj.soc
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/MinusPorts.soc
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/SOC_MAIN
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/SOC_MAIN
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/MAIN.SOC
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/MAINCFG.SOC
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/OBJCTCFG.SOC
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/SOC_MAIN
-Loading SOC from E:\SRB2Kart\mods\loadlast\CASLserver.pk3|soc/SOC_MAIN
+ERROR: Maximum wad files reached
+ERROR: Maximum wad files reached
 Added file E:\SRB2Kart\mods\loadlast\CASLserver.pk3.bak (1 lumps)
+MAPCA
+MAPCB
+MAPJ1
+MAPJ2
+MAPSL
+MAPX1
 MAPC0
 MAPC1
 MAPC2
@@ -475,6 +397,7 @@ MAPGW
 MAPGY
 MAPGT
 MAPGQ
+MAPBU
 MAP95
 MAP68
 MAP69
@@ -486,6 +409,7 @@ MAPWL
 MAPPS
 MAPX5
 MAPX6
+MAPWO
 MAPJC
 MAPSR
 MAPSW
@@ -507,6 +431,31 @@ MAPJK
 MAPJL
 MAPIB
 MAPIC
+MAPPZ
+MAPQ0
+MAPQ1
+MAPQ2
+MAPQ3
+MAPQ4
+MAPQ5
+MAPQ6
+MAPQ7
+MAPQ8
+MAPQ9
+MAPQA
+MAPQB
+MAPQC
+MAPQD
+MAPQF
+MAPQE
+MAPQG
+MAPQH
+MAPQI
+MAPQJ
+MAPQK
+MAPQL
+MAPQM
+MAPQJ
 MAPM0
 MAPM1
 MAPM2
@@ -543,12 +492,6 @@ MAPV7
 MAPMU
 MAPA0
 MAPA1
-MAP61
-MAPTE
-MAPEX
-MAPG0
-MAPTF
-MAPI0
 I_StartupGraphics()...
 NOTE: Under SDL2, all modes are supported on all platforms.
 Under opengl, fullscreen only supports native desktop resolution.
@@ -590,11 +533,11 @@ gfx.kart added 1030 frames in 148 sprites
 chars.kart added 87 frames in 1 sprites
 patch.kart added 5 frames in 2 sprites
 bonuschars.kart added 3337 frames in 0 sprites
-KC_Hornet_V0.1.pk3 added 0 frames in 0 sprites
 KC_Lucario.pk3 added 0 frames in 0 sprites
 KC_Pit.pk3 added 0 frames in 0 sprites
 KC_T-54.pk3 added 0 frames in 0 sprites
 KC_Trueno_v2.1.pk3 added 0 frames in 0 sprites
+KRBC_SharkAttackPackV3_2.pk3 added 29 frames in 3 sprites
 KRBL_CCCP_v1.2.1.pk3 added 16 frames in 2 sprites
 KRBL_OMEGATRACKS_V2.4.1.pk3 added 0 frames in 0 sprites
 KRB_EverythingIsTerrible_v1-1.pk3 added 0 frames in 0 sprites
@@ -611,10 +554,13 @@ Kr_AngelArrow1.1_CHROMED.pk3 added 1 frames in 0 sprites
 KR_Barkpark-v3.4.pk3 added 33 frames in 22 sprites
 KR_Bowling_Cup_V1.6.3.pk3 added 0 frames in 0 sprites
 kr_CTAP_v3-01.pk3 added 11 frames in 1 sprites
+KR_DeepGlacial_v1.6.pk3 added 0 frames in 0 sprites
 KR_DesertCliffsDS_V1.0.pk3 added 0 frames in 0 sprites
 KR_DimBrk_v2.8F.pk3 added 61 frames in 12 sprites
+KR_Geothemal_Fortress_V1.1.pk3 added 0 frames in 0 sprites
 KR_JokerCupPack-v1.2.pk3 added 0 frames in 0 sprites
 kr_kartmania_v1.5.1.pk3 added 7 frames in 2 sprites
+KR_KartZPack_v4.pk3 added 0 frames in 0 sprites
 kr_mupak_v9.pk3 added 3 frames in 0 sprites
 KR_PlomPack_v1_2.pk3 added 15 frames in 6 sprites
 KR_RA_Extended-v2.4.1.pk3 added 3 frames in 1 sprites
@@ -623,7 +569,6 @@ KR_TPM-v1.0.1.pk3 added 16 frames in 8 sprites
 kr_TrbFlsh_v2.1.pk3 added 5 frames in 1 sprites
 kr_undergroundgrotto_v1.2.1.pk3 added 10 frames in 7 sprites
 KR_VirusPack-v1.pk3 added 0 frames in 0 sprites
-CASLserver.pk3 added 552 frames in 8 sprites
 Added skin 'tails'
 Added skin 'knuckles'
 Added skin 'eggman'
@@ -658,10 +603,7 @@ Added skin 'kiryu'
 Added skin 'aigis'
 Added skin 'miku'
 Added skin 'doom'
-Added skin 'alastor'
 Added skin 'bowserjr'
-Added skin 'hornetbmt'
-Added skin 'kingboo'
 Added skin 'lucario'
 Added skin 'peppino'
 Added skin 'pit'
@@ -669,72 +611,8 @@ Added skin 'sparkster'
 Added skin 'axelgear'
 Added skin 't-54'
 Added skin 'ae86'
-Added skin 'chocobo'
-Added skin 'crashbandicoot'
-Added skin 'geno'
-Added skin 'incineroar'
-Added skin 'monika'
-Added skin 'eggr'
-Added skin 'supersonic'
-Added skin 'meta_knight'
-Added skin 'ticktock'
-Added skin 'shovel_knight'
-Added skin 'dorothy'
-Added skin 'fang'
-Added skin 'kingkrool'
-Added skin 'peach'
-Added skin 'spyro'
-Added skin 'crashbandicoot61'
-Added skin 'charizard'
-Added skin 'banjo'
-Added skin 'palutena'
-Added skin 'shantae'
-Added skin 'bulltkin'
-Added skin 'jigglypuff'
-Added skin 'metal_knuckles'
-Added skin 'uraraka'
-Added skin 'yoshi'
-Added skin 'cd-i_ganon'
-Added skin 'bunji'
-Added skin 'megumin'
-Added skin 'monty'
-Added skin 'plague'
-Added skin 'megaman'
-Added skin 'lilac'
-Added skin 'carol'
-Added skin 'milla'
-Added skin 'neera'
-Added skin 'slds'
-Added skin 'serval'
-Added skin 'joker'
-Added skin 'neptune'
-Added skin 'ryuko'
-Added skin 'tohru'
-Added skin '2b'
-Added skin 'jester'
-Added skin 'robot'
-Added skin 'warrior'
-Added skin 'mario'
-Added skin 'luigi'
-Added skin 'toad'
-Added skin 'king_bob-omb'
-Added skin 'steve'
-Added skin 'kanade'
-Added skin 'sinon'
-Added skin 'junpei'
-Added skin 'haru'
-Added skin 'pyra'
-Added skin 'satsuki'
-Added skin 'suguri'
-Added skin 'maki'
-Added skin 'kaiji'
-Added skin 'taiga'
-Added skin 'tomokokuroki'
-Added skin 'orihime'
-Added skin 'dodongos'
-Added skin 'aqua'
-Added skin 'kazumasato'
-Added skin 'darkness'
+Added skin 'plok'
+Added skin 'heady'
 R_InitColormaps()...
 S_InitSfxChannels(): Setting up sound channels.
 ST_Init(): Init status bar.
