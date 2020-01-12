@@ -1,2 +1,2 @@
 @echo off
-srb2kart.exe -connect casual.army
+srb2kart.exe -opengl -connect casual.army
