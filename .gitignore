@@ -3,4 +3,6 @@
 /textures.kart
 /log.txt
 *.bak
+*.dat
 log.txt
+replay/*
