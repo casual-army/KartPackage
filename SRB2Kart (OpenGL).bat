@@ -1,2 +1,2 @@
 @echo off
-srb2kart.exe -opengl
+start /b srb2kart.exe -opengl -msaa 4
