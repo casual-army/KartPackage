@@ -1,2 +1,2 @@
 @echo off
-srb2kart.exe -opengl -connect casual.army
+start /b srb2kart.exe -opengl -connect casual.army -msaa 4

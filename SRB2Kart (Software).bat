@@ -1,2 +1,2 @@
 @echo off
-srb2kart.exe
+start /b srb2kart.exe
