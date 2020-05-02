@@ -1,2 +1,2 @@
 @echo off
-start /b srb2kart.exe -opengl -msaa 4
+start /b srb2kart.exe -opengl -msaa 4 -port 0 -debugfile

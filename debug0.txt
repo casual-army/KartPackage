@@ -1,0 +1,251 @@
+debug output to: .\debug0.txt
+- - -== SRB2Kart v1.10.0 v1.1 Birdhouse Dev Unofficial debugfile ==- - -
+
+-=-=-=-=-=-=-= Server Reset =-=-=-=-=-=-=-
+
+executing .\kartexec.cfg
+Entering main game loop...
+I_StartupKeyboard()...
+===========================================================================
+                   We hope you enjoy this game as
+                     much as we did making it!
+===========================================================================
+SRB2Kart v1.1 Birdhouse Dev Unofficial (Apr 23 2020 20:59:25 5eae2bd2)
+SDL Windows 64-bit 
+
+-=-=-=-=-=-=-= Server Reset =-=-=-=-=-=-=-
+
+Added file E:\SRB2Kart\mods\loadlast\CASLr042.pk3 (179 lumps)
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/encore.lua
+Pardon me while I initialize the Lua scripting interface...
+encore set to off
+encorechance set to 0
+encorerevertchance set to 0
+ƒNOTICE:€ Game must be restarted to play record attack.
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/KL_combiring_v3b.lua
+MobjType MT_COMBILINK allocated.
+State S_COMBILINK allocated.
+combi_active set to Off
+combi_allowfriends set to On
+combi_replay set to Off
+storage__combi_friend_0 set to 0
+storage__combi_friend_1 set to 0
+storage__combi_friend_2 set to 0
+storage__combi_friend_3 set to 0
+storage__combi_friend_4 set to 0
+storage__combi_friend_5 set to 0
+storage__combi_friend_6 set to 0
+storage__combi_friend_7 set to 0
+storage__combi_friend_8 set to 0
+storage__combi_friend_9 set to 0
+storage__combi_friend_10 set to 0
+storage__combi_friend_11 set to 0
+storage__combi_friend_12 set to 0
+storage__combi_friend_13 set to 0
+storage__combi_friend_14 set to 0
+storage__combi_friend_15 set to 0
+Added command "combi_friend"
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/KL_EngineSwap-v1.5.lua
+engine_joinmessage set to Disabled
+engine_bounds set to Normal
+engine_minspeed set to 1
+engine_maxspeed set to 9
+engine_minweight set to 1
+engine_maxweight set to 9
+engine_allowinbattle set to No
+engine_notify set to Yes
+Added command "engine_server"
+Added command "engine_help"
+Added command "engine"
+Added command "en"
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/kl_landingquake.lua
+landingquake set to On
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/kl_randommap_v1.lua
+Added command "randommap"
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/kl_rtv_v1.lua
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/kl_scaleplayers.lua
+Added command "scaleplayers"
+Added command "resetscaleplayers"
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/KL_Slipstream-v4beta.lua
+slipstream_enabled set to On
+slipstream_colorized set to On
+slipstream_reminder set to On
+slipstream_driftingallowed set to On
+slipstream_maxdistance set to 1500
+slipstream_t2chargedist set to 1050
+slipstream_t3chargedist set to 400
+slipstream_maxangle set to 13.0
+slipstream_chargetoboost set to 122
+slipstream_boosttime set to 70
+slipstream_minimumspeed set to 28
+slipstream_maxspeedboostpercent set to 0.5
+slipstream_minspeedboostpercent set to 0.25
+slipstream_accelboostpercent set to 0.25
+slipstream_maxdraftspeedboostpercent set to 0.15
+slipstream_mindraftspeedboostpercent set to 0
+slipstream_boostreadout set to Off
+slipstream_booststack set to On
+slipstream_hardsneaker set to Off
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/outrun.lua
+outrun_enabled set to No
+outrun_timer set to 60
+outrun_respawnpenalty set to 5
+outrun_suddendeathseconds set to 180
+outrun_suddendeathupgradeseconds set to 60
+outrun_minimumtimer set to 10
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/rahud.lua
+rahud_leftside set to Off
+rahud_enabled set to Off
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/driftguage/
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/driftguage/LUA_SCR.txt
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/driftguage/LUA_YURI.txt
+driftgauge_enabled set to On
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/elimination/
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/elimination/LUA_FNT.lua
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/elimination/LUA__EL.lua
+elimination set to Off
+elim_time set to 35
+elim_starttime set to 15
+elim_test set to Off
+MobjType MT_ELIMWARNING allocated.
+State S_VISIBLE allocated.
+Sprite SPR_EPIC allocated.
+Sound sfx_sdndth allocated.
+Added command "forcewin"
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/friendmod/
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/friendmod/FRIENDMOD.lua
+†* FRIENDMOD, by TyroneSama *
+fr_enabled set to Off
+fr_teamchance set to 100
+fr_minplayers set to 6
+fr_teamattack set to On
+fr_teamwarning set to On
+fr_teamreflect set to Off
+fr_teamlog set to On
+fr_debug set to Off
+fr_crewbattle set to Off
+fr_crewfill set to On
+fr_bosschance set to 5
+fr_bossrestock set to 4
+fr_bossspbgone set to 2
+fr_bossshrinkbgone set to 2
+fr_bossprotectitem set to 1
+fr_bossprotectamount set to 1
+fr_bossprotectfront set to Off
+fr_bossstartitem set to 16
+fr_bossstartamount set to 3
+fr_bossscalerestock set to On
+fr_bosskarma set to On
+fr_worldkarma set to On
+fr_worldpower set to Off
+fr_worldjawz set to Off
+fr_worldpoweralways set to Off
+fr_worldjawzalways set to On
+fr_worldreplaceitem set to 1
+fr_worldreplaceamount set to 1
+fr_bluename set to Random
+fr_orangename set to Random
+fr_onesidename set to THE WORLD
+fr_forceboss set to Random
+fr_bluecolor set to Blue
+fr_orangecolor set to Orange
+fr_bluecolorlocal set to MIN
+fr_orangecolorlocal set to MIN
+fr_prng set to 0/6278/975/39206/45678/@
+Sound sfx_mugen allocated.
+Sound sfx_fatal allocated.
+Sound sfx_frboss allocated.
+Sound sfx_fmssb0 allocated.
+Sound sfx_fmffa allocated.
+Sound sfx_fmteam allocated.
+Sound sfx_fmdblk allocated.
+Sound sfx_fmbshc allocated.
+Sound sfx_fmpnch allocated.
+Sound sfx_fmstw allocated.
+Added command "fr_randomtoggle"
+Added command "fr_changeblue"
+Added command "fr_changeorange"
+Added command "fr_manualsave"
+Added command "fr_colorhelp"
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hitfeed/
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hitfeed/LUA_CMDS.lua
+hitfeed set to On
+hf_minimal set to Off
+hf_charlimit set to 21
+hf_messagelimit set to 4
+hf_highlightcolor set to White
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hitfeed/LUA_DEFS.lua
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hitfeed/LUA_HITM.lua
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hostmod/
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hostmod/consoleplayer.lua
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hostmod/lagcheck.lua
+hostmod_lagview set to Off
+hostmod_lagviewclean set to On
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hostmod/neomotd1.lua
+hostmod_motd set to Off
+hostmod_motdalways set to Off
+hostmod_motddebug set to Off
+hostmod_motdname set to ˆDefault HOSTMOD MOTD
+hostmod_motdcontact set to Check your chat?
+hostmod_motddesc set to HOSTMOD's MOTD feature hasn't been configured. Let the host know!
+hostmod_motdbackground set to Black
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hostmod/SPBAttack.lua
+Sound sfx_spba_f allocated.
+hostmod_spba set to On
+hostmod_spbadebug set to Off
+hostmod_spbatimeout set to 30
+hostmod_spbawaitmsg set to Waiting for players...
+hostmod_spbaplugmsg set to SPB Attack, by Tyron
+Sound sfx_spbahd allocated.
+Sound sfx_hllcon allocated.
+Added command "spba"
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/hostmod/visualpowerups1.lua
+hostmod_powerupsound set to Off
+hostmod_powerupflash set to Off
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/KartMP/
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/KartMP/LUA_CMD
+kmp_bumpspark set to Off
+kmp_hardsneakers set to Off
+kmp_extendflashtics set to Off
+kmp_slowspinout set to Off
+kmp_orbinautfuse set to Off
+kmp_floatingitemfuse set to Off
+kmp_growthbump set to Off
+kmp_itemlimiter set to Off
+kmp_hyudoro set to Off
+kmp_orbitlimit set to Off
+kmp_haste set to Off
+kmp_offroad set to Off
+Added command "kmp_info"
+Added command "kmp_help"
+Loading Lua script from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|Lua/KartMP/LUA_KMP
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/AbstractionPack.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/ArcadePak.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/barkpark.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/DG_Race.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/DimensionBreak.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/EverythingIsTerrible.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/FickleHearts.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/HideSMK.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/InsanityPack.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/kartmania.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/latpack.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/MapAdj.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/MastersPack.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/MilkPack.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/mupak.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/PlomPack.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/Slipgate.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/SparkCup.soc
+Loading SOC from E:\SRB2Kart\mods\loadlast\CASLr042.pk3|SOC/CASL/TPM.soc
+12 sounds replaced
+7 digital musics replaced
+CASLr042.pk3 added 4 frames in 1 sprites
+No maps added
+You're trying to say you
+like Sonic R better than
+this, aren't you?
+
+(Press 'Y' to quit)Shutting down joy system
+I_ShutdownTcpDriver: shut down
