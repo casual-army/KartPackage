@@ -1,0 +1,43 @@
+#Configurations dummy :^)
+
+#Bye Bye ports :(
+
+Level 68
+LevelName = SD2 Dark Valley
+Zonetitle = 2
+Subtitle = Port cup 1
+TypeOfLevel = Race
+NumLaps = 4
+SkyNum = 68
+Music = GHSTLY
+Hidden = true
+RecordAttack = true
+NoVisitNeeded = true
+NextLevel = 69
+
+Level CG
+LevelName = NKR Into Dimension X
+NoZone = true
+Subtitle = Port Cup 3
+TypeOfLevel = Race
+NumLaps = 3
+SkyNum = 59
+Music = MAPCG
+Hidden = true
+RecordAttack = true
+NoVisitNeeded = true
+NextLevel = X5
+
+Level X5
+LevelName = MKSC Luigi Circuit
+NoZone = true
+Subtitle = Port Cup 4
+TypeOfLevel = Race
+NumLaps = 3
+Music = KMAPX5
+Hidden = true
+RecordAttack = true
+NoVisitNeeded = true
+Weather = 3
+SkyNum = 234
+NextLevel = Wl

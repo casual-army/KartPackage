@@ -7,3 +7,6 @@
 *.dat
 replay/*
 DOWNLOADED/*
+*.png
+*.gif
+*.txt
