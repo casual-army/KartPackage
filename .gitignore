@@ -6,7 +6,8 @@
 *.bak
 *.dat
 replay/*
-DOWNLOADED/*
+DOWNLOAD/*
 *.png
 *.gif
 *.txt
+mods/betas/*
