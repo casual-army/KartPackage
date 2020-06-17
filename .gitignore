@@ -2,7 +2,9 @@
 /ogllog.txt
 /kartconfig.cfg
 /textures.kart
-/log.txt
+log.txt
+debug0.txt
+debug2.txt
 *.bak
 *.dat
 replay/*
@@ -11,3 +13,4 @@ DOWNLOAD/*
 *.gif
 *.txt
 mods/betas/*
+mods/off/*
